@@ -16,12 +16,7 @@ export default function SinglePost() {
             <i className="single-posticon fa-solid fa-pen-to-square"></i>
             <i className="single-posticon fa-solid fa-trash-can"></i>
           </div>
-          <div className="single-post-edit">
-            <i className="posticon-like fa-solid fa-heart"></i>
-            <span>12</span>
-            <i className="posticon-dislike fa-solid fa-heart-crack"></i>
-            <span>3</span>
-          </div>
+
         </h1>
         <div className="single-post-info">
           <span className="single-post-author">
