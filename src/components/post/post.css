@@ -54,17 +54,3 @@
   -webkit-line-clamp: 4;
   -webkit-box-orient: vertical;
 }
-
-.posticon {
-  margin: 0px 0px 30px 290px;
-}
-
-.posticon > i {
-  margin: 5px;
-  font-size: 20px;
-}
-
-span {
-  margin-right: 5px;
-  font-size: 20px;
-}

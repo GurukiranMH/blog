@@ -58,17 +58,3 @@
   font-size: 30px;
   font-weight: 600px;
 }
-
-/* Posticon */
-
-.posticon-like,
-.posticon-dislike {
-  margin-right: 10px;
-  cursor: pointer;
-  font-size: 22px;
-}
-
-.single-post-edit > span {
-  margin-right: 10px;
-  font-size: 22px;
-}

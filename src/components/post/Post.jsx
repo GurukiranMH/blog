@@ -37,12 +37,6 @@ export default function Post() {
           aspernatur.
         </p>
       </div>
-      <div className="posticon">
-        <i className="posticon-like fa-solid fa-heart"></i>
-        <span>12</span>
-        <i className="posticon-dislike fa-solid fa-heart-crack"></i>
-        <span>3</span>
-      </div>
     </>
   );
 }
